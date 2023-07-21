@@ -1,0 +1,15 @@
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\bin\Debug\netstandard2.1\HRManegment_Infrastructure.deps.json
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\bin\Debug\netstandard2.1\HRManegment_Infrastructure.dll
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\bin\Debug\netstandard2.1\HRManegment_Infrastructure.pdb
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\obj\Debug\netstandard2.1\HRManegment_Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\obj\Debug\netstandard2.1\HRManegment_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\obj\Debug\netstandard2.1\HRManegment_Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\obj\Debug\netstandard2.1\HRManegment_Infrastructure.AssemblyInfo.cs
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\obj\Debug\netstandard2.1\HRManegment_Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\obj\Debug\netstandard2.1\HRManegment_Infrastructure.dll
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\obj\Debug\netstandard2.1\HRManegment_Infrastructure.pdb
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\bin\Debug\netstandard2.1\HRManegment_Application.dll
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\bin\Debug\netstandard2.1\HRManegment_Domain.dll
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\bin\Debug\netstandard2.1\HRManegment_Application.pdb
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\bin\Debug\netstandard2.1\HRManegment_Domain.pdb
+E:\Projects\Amuzeshi\HRManegment\HRManegment_Infrastructure\obj\Debug\netstandard2.1\HRManegment_Infrastructure.csproj.CopyComplete
