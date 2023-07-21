@@ -1,0 +1,2 @@
+# LeaveRequestManagement
+CleaneArchitecture In .NetCore
