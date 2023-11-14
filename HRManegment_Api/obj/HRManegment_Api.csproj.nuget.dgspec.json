@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Api\\HRManegment_Api.csproj": {}
+    "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Api\\HRManegment_Api.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Api\\HRManegment_Api.csproj": {
+    "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Api\\HRManegment_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Api\\HRManegment_Api.csproj",
+        "projectUniqueName": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Api\\HRManegment_Api.csproj",
         "projectName": "HRManegment_Api",
-        "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Api\\HRManegment_Api.csproj",
-        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Api\\obj\\",
+        "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Api\\HRManegment_Api.csproj",
+        "packagesPath": "C:\\Users\\m.bagheri\\.nuget\\packages\\",
+        "outputPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\m.bagheri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,24 +22,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj": {
-                "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj"
+              "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj": {
+                "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj"
               },
-              "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Domain\\HRManegment_Domain.csproj": {
-                "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Domain\\HRManegment_Domain.csproj"
+              "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Domain\\HRManegment_Domain.csproj": {
+                "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Domain\\HRManegment_Domain.csproj"
               },
-              "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj": {
-                "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj"
+              "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj": {
+                "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj"
               },
-              "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Persistence\\HRManegment_Persistence.csproj": {
-                "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Persistence\\HRManegment_Persistence.csproj"
+              "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Persistence\\HRManegment_Persistence.csproj": {
+                "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Persistence\\HRManegment_Persistence.csproj"
               }
             }
           }
@@ -97,26 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj": {
+    "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj",
+        "projectUniqueName": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj",
         "projectName": "HRManegment_Application",
-        "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj",
-        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\obj\\",
+        "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj",
+        "packagesPath": "C:\\Users\\m.bagheri\\.nuget\\packages\\",
+        "outputPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\m.bagheri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,15 +114,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Domain\\HRManegment_Domain.csproj": {
-                "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Domain\\HRManegment_Domain.csproj"
+              "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Domain\\HRManegment_Domain.csproj": {
+                "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Domain\\HRManegment_Domain.csproj"
               }
             }
           }
@@ -180,26 +169,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Domain\\HRManegment_Domain.csproj": {
+    "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Domain\\HRManegment_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Domain\\HRManegment_Domain.csproj",
+        "projectUniqueName": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Domain\\HRManegment_Domain.csproj",
         "projectName": "HRManegment_Domain",
-        "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Domain\\HRManegment_Domain.csproj",
-        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Domain\\obj\\",
+        "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Domain\\HRManegment_Domain.csproj",
+        "packagesPath": "C:\\Users\\m.bagheri\\.nuget\\packages\\",
+        "outputPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\m.bagheri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -207,7 +191,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -241,26 +224,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj": {
+    "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj",
+        "projectUniqueName": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj",
         "projectName": "HRManegment_Infrastructure",
-        "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Infrastructure\\obj\\",
+        "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Infrastructure\\HRManegment_Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\m.bagheri\\.nuget\\packages\\",
+        "outputPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\m.bagheri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -268,15 +246,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj": {
-                "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj"
+              "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj": {
+                "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj"
               }
             }
           }
@@ -316,26 +293,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Persistence\\HRManegment_Persistence.csproj": {
+    "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Persistence\\HRManegment_Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Persistence\\HRManegment_Persistence.csproj",
+        "projectUniqueName": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Persistence\\HRManegment_Persistence.csproj",
         "projectName": "HRManegment_Persistence",
-        "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Persistence\\HRManegment_Persistence.csproj",
-        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Persistence\\obj\\",
+        "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Persistence\\HRManegment_Persistence.csproj",
+        "packagesPath": "C:\\Users\\m.bagheri\\.nuget\\packages\\",
+        "outputPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\m.bagheri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -343,15 +315,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj": {
-                "projectPath": "E:\\Projects\\Amuzeshi\\HRManegment\\HRManegment_Application\\HRManegment_Application.csproj"
+              "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj": {
+                "projectPath": "D:\\GitProjectClone_Internet\\LeaveRequestManagement\\HRManegment_Application\\HRManegment_Application.csproj"
               }
             }
           }
@@ -391,7 +362,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
